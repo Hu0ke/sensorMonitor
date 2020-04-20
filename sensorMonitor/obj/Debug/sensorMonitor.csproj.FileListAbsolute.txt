@@ -1,0 +1,6 @@
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.csprojResolveAssemblyReference.cache
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.Form1.resources
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.Form2.resources
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.Properties.Resources.resources
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.csproj.GenerateResource.Cache
+E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.csproj.CoreCompileInputs.cache
