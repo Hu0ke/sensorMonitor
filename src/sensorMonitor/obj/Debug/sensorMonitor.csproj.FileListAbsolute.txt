@@ -4,3 +4,17 @@ E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\D
 E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.Properties.Resources.resources
 E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.csproj.GenerateResource.Cache
 E:\机电\crash\2017年第2学期ZigBee技术实训相关\WindowsFormsApp1\obj\Debug\sensorMonitor.csproj.CoreCompileInputs.cache
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.csprojResolveAssemblyReference.cache
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.Form1.resources
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.Form2.resources
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.Properties.Resources.resources
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.csproj.GenerateResource.Cache
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.csproj.CoreCompileInputs.cache
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\sensorMonitor.exe.config
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\sensorMonitor.exe
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\sensorMonitor.pdb
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\M2Mqtt.dll
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\Newtonsoft.Json.dll
+F:\Git\sensorMonitor\src\sensorMonitor\bin\Debug\Newtonsoft.Json.xml
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.exe
+F:\Git\sensorMonitor\src\sensorMonitor\obj\Debug\sensorMonitor.pdb

@@ -25,8 +25,9 @@ namespace sensorMonitor
 
             client = new MqttClient(enpoint,
                                                 port,
-                                                true, // 开启TLS 
-                                                MqttSslProtocols.TLSv1_0, // TLS版本
+                                                false, // 开启TLS 
+                                                null,
+                                                //MqttSslProtocols.TLSv1_0, // TLS版本
                                                 null,
                                                 null
                                                );
