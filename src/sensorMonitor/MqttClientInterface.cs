@@ -12,8 +12,8 @@ namespace sensorMonitor
     class MqttClientInterface
     {
         private MqttClient client = null;
-        private static string user = "cmzhengding/device";
-        private static string pwd = "iPnDcC1Qj73k/13/ySNcXA9vwIAJdA5qHkyf85SMvXI=";
+        private static string user = "*******ing/device";
+        private static string pwd = "iP**********************************vXI=";
         private string clientid;
         private byte[] qosLevels = new byte[] { MqttMsgBase.QOS_LEVEL_AT_MOST_ONCE }; // qos=1
 
